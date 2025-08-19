@@ -1,2 +1,3 @@
-# everything_is_predictable
-Working out how the math works in the book, _Everything is Predictable_
+# Everything is Predictable
+This repo is for working out how the math in the book, _Everything is Predictable_ by Tom Chivers.
+
